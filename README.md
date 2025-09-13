@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/PrincessNosawema/GIF/blob/main/GIF-2025-09-11-04-14-04%20(1).gif-2025-09-11-04-14-04.gif">
+  <img src="https://github.com/PrincessNosawema/GIF/blob/main/GIF-2025-09-11-04-14-04%20(1).gif">
 </div>
 
 <br>
