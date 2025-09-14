@@ -29,7 +29,7 @@ class Me:
         self.degree = "B.Eng Chemical Engineering (First Class Honors)"
         self.role = "AI/ML Developer & Applied Data Scientist -- Real-Time NLP, RAG, Applied ML, AI Agents, Intelligent Decision Analytics"
         self.secret_superpower = "Turning complex problems into elegant code"
-        self.official_website = ""    # Placeholder
+        self.official_website = "https://princessnosawema.github.io/" 
 ```
 
 
