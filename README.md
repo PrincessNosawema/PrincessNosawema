@@ -30,60 +30,78 @@ class Me:
 
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-#		   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> </b> Tech Stack:
+#		   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> ## 🛠️ Tech Stack:
 <p align="center">
 
-- **Languages & Core Libraries**
+- **Automation & Orchestration Platforms**
   
+  ![n8n](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
+  ![Make](https://img.shields.io/badge/Make.com-%236D00CC.svg?style=for-the-badge&logo=integromat&logoColor=white)
+  ![Zapier](https://img.shields.io/badge/Zapier-%23FF4A00.svg?style=for-the-badge&logo=zapier&logoColor=white)
+  ![Power Automate](https://img.shields.io/badge/Power%20Automate-%230066FF.svg?style=for-the-badge&logo=power-automate&logoColor=white)
+  
+  <br>
+- **Languages & Scripting**
+  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
   ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
   ![SQL](https://img.shields.io/badge/SQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-  ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%2347A248.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![JSON](https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)
   
-    <br>
-- **NLP & LLMs**
+  <br>
+- **AI & LLM Integration**
   
-  ![Hugging Face](https://img.shields.io/badge/%20Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
   ![OpenAI](https://img.shields.io/badge/OpenAI-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)
+  ![GPT-4](https://img.shields.io/badge/GPT--4-%2310A37F.svg?style=for-the-badge&logo=openai&logoColor=white)
   ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-  ![LangChain](https://img.shields.io/badge/LangChain-%2300A1E0.svg?style=for-the-badge&logo=langchain&logoColor=white)
-  ![LangGraph](https://img.shields.io/badge/LangGraph-%2300D4AA.svg?style=for-the-badge&logoColor=white)
-  ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-%23FF6B6B.svg?style=for-the-badge&logoColor=white)
+  ![Claude](https://img.shields.io/badge/Claude-%23D97757.svg?style=for-the-badge&logo=anthropic&logoColor=white)
+  ![Llama](https://img.shields.io/badge/Llama-%230467DF.svg?style=for-the-badge&logo=meta&logoColor=white)
+  ![Groq](https://img.shields.io/badge/Groq-%23F55036.svg?style=for-the-badge&logoColor=white)
+  ![Whisper](https://img.shields.io/badge/Whisper%20STT-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)
   
-    <br>
-- **Vector & Retrieval**
+  <br>
+- **Vector Databases & RAG**
   
-  ![ChromaDB](https://img.shields.io/badge/ChromaDB-%23FF6B35.svg?style=for-the-badge&logoColor=white)
-  ![FAISS](https://img.shields.io/badge/FAISS-%23007ACC.svg?style=for-the-badge&logo=meta&logoColor=white)
+  ![Pinecone](https://img.shields.io/badge/Pinecone-%23000000.svg?style=for-the-badge&logoColor=white)
   ![OpenAI Embeddings](https://img.shields.io/badge/OpenAI%20Embeddings-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)
+  ![Google Embeddings](https://img.shields.io/badge/Google%20Embeddings-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
   
-    <br>
-- **Data Storage & Infrastructure**
+  <br>
+- **CRM & Business Platforms**
+  
+  ![HubSpot](https://img.shields.io/badge/HubSpot-%23FF7A59.svg?style=for-the-badge&logo=hubspot&logoColor=white)
+  ![Airtable](https://img.shields.io/badge/Airtable-%2318BFFF.svg?style=for-the-badge&logo=airtable&logoColor=white)
+  ![GoHighLevel](https://img.shields.io/badge/GoHighLevel-%2300D4AA.svg?style=for-the-badge&logoColor=white)
+  ![Asana](https://img.shields.io/badge/Asana-%23F06A6A.svg?style=for-the-badge&logo=asana&logoColor=white)
+  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+  
+  <br>
+- **Databases & Storage**
   
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![AWS S3](https://img.shields.io/badge/AWS%20S3-%23FF9900.svg?style=for-the-badge&logo=amazon-s3&logoColor=white)
+  ![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
+  ![Google Drive](https://img.shields.io/badge/Google%20Drive-%234285F4.svg?style=for-the-badge&logo=google-drive&logoColor=white)
   
-    <br>
-- **Scraping & Ingestion**
+  <br>
+- **Communication & Integration**
   
-  ![Scrapy](https://img.shields.io/badge/Scrapy-%2360A839.svg?style=for-the-badge&logo=scrapy&logoColor=white)
-  ![Playwright](https://img.shields.io/badge/Playwright-%23FF6C37.svg?style=for-the-badge&logo=playwright&logoColor=white)
-  ![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
-  ![Requests](https://img.shields.io/badge/Requests-%23FF6F61.svg?style=for-the-badge&logo=python&logoColor=white)
-  ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-%23F05032.svg?style=for-the-badge&logo=python&logoColor=white)
+  ![Slack](https://img.shields.io/badge/Slack-%234A154B.svg?style=for-the-badge&logo=slack&logoColor=white)
+  ![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)
+  ![REST APIs](https://img.shields.io/badge/REST%20APIs-%23FF6C37.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+  ![Webhooks](https://img.shields.io/badge/Webhooks-%2300D4AA.svg?style=for-the-badge&logoColor=white)
+  ![Azure AD](https://img.shields.io/badge/Azure%20AD-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
   
-    <br>
-- **Serving & APIs**
+  <br>
+- **Web Scraping & Data Extraction**
   
-  ![FastAPI](https://img.shields.io/badge/FastAPI-%2300D4AA.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-  ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
-  ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Apify](https://img.shields.io/badge/Apify-%230F172A.svg?style=for-the-badge&logoColor=white)
+  
+  <br>
+- **Content & Analytics**
+  
+  ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+  ![Google Docs API](https://img.shields.io/badge/Google%20Docs%20API-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+  ![Google Analytics](https://img.shields.io/badge/GA4-%23E37400.svg?style=for-the-badge&logo=google-analytics&logoColor=white)
+  ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-%234285F4.svg?style=for-the-badge&logo=looker&logoColor=white)
 
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
