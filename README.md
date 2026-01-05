@@ -1,5 +1,5 @@
 ### <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><b> Hi, I'm Princess </b></h1>
-<h4 align="center">An innovative <b>AI/ML Engineer</b> & <b>Applied Data Scientist</b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h4>
+<h4 align="center">An innovative <b>Automation & AI Integration Engineer</b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h4>
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
   </p>
 <p align="center">
@@ -16,8 +16,6 @@
 
 <li>🛠 <b>Building</b> production-ready data pipelines and automated workflows</li>
 <li>💬 <b>Designing</b> and deploying intelligent AI agents, chatbots, and RAG-powered systems</li>
-<li>📊 <b>Developing</b> predictive, clustering, and recommendation ML models for actionable insights</li>
-<li>📈 <b>Enabling</b> business decision intelligence through interactive dashboards and analytics platforms</li>
 </ul>
 
 ___
@@ -27,8 +25,6 @@ ___
 class Me:
     def __init__(self):
         self.degree = "B.Eng Chemical Engineering (First Class Honors)"
-        self.role = "AI/ML Engineer & Applied Data Scientist -- Real-Time NLP, RAG, Applied ML, AI Agents, Intelligent Decision Analytics"
-        self.secret_superpower = "Turning complex problems into elegant code"
         self.official_website = "https://princessnosawema.github.io/" 
 ```
 
