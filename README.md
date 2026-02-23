@@ -58,6 +58,7 @@ class Me:
   ![Llama](https://img.shields.io/badge/Llama-%230467DF.svg?style=for-the-badge&logo=meta&logoColor=white)
   ![Groq](https://img.shields.io/badge/Groq-%23F55036.svg?style=for-the-badge&logoColor=white)
   ![Whisper](https://img.shields.io/badge/Whisper%20STT-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)
+  ![Perplexity](https://img.shields.io/badge/Perplexity-202939?style=for-the-badge&logo=perplexity&logoColor=white)
   
   <br>
 - **Vector Databases & RAG**
@@ -95,6 +96,8 @@ class Me:
 - **Web Scraping & Data Extraction**
   
   ![Apify](https://img.shields.io/badge/Apify-%230F172A.svg?style=for-the-badge&logoColor=white)
+  ![Clay](https://img.shields.io/badge/Clay-212121?style=for-the-badge&logo=clay&logoColor=white)
+  ![Apollo](https://img.shields.io/badge/Apollo-118DFF?style=for-the-badge&logo=apollo-graphql&logoColor=white)
   
   <br>
 - **Content & Analytics**
